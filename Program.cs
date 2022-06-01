@@ -1,7 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using MyScriptureJournal.Data;
+using Microsoft.Extensions.DependencyInjection;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<MyScriptureJournalContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("MyScriptureJournalContext") ?? throw new InvalidOperationException("Connection string 'MyScriptureJournalContext' not found.")));
 
 var app = builder.Build();
 

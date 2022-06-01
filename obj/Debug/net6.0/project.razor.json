@@ -16308,8 +16308,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/MyScriptureJournal/Pages/Scriptures/Edit.cshtml",
+      "TargetPath": "Pages\\Scriptures\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/MyScriptureJournal/Pages/Scriptures/Index.cshtml",
+      "TargetPath": "Pages\\Scriptures\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/MyScriptureJournal/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/MyScriptureJournal/Pages/Scriptures/Details.cshtml",
+      "TargetPath": "Pages\\Scriptures\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16325,6 +16340,16 @@
     {
       "FilePath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/MyScriptureJournal/Pages/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/MyScriptureJournal/Pages/Scriptures/Delete.cshtml",
+      "TargetPath": "Pages\\Scriptures\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/MyScriptureJournal/Pages/Scriptures/Create.cshtml",
+      "TargetPath": "Pages\\Scriptures\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
