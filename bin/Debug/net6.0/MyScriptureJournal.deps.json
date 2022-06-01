@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyScriptureJournal/1.0.0": {
+        "runtime": {
+          "MyScriptureJournal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyScriptureJournal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
